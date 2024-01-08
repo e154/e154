@@ -1,13 +1,14 @@
 
-## Hi! My name is Alexey Filippov. 
-### I'm Senior Golang - developer
+## I'm Alexey Filippov
 
-- 💬 Ask me about tools which I do or something else :)
-- 📫 How to reach me: support@e154.ru
+A few facts about me:
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=e154&langs_count=8&theme=dark)  [![Github stats](https://github-readme-stats.vercel.app/api?username=e154&theme=dark)](https://github.com/e154)
+- My current focus is fintech projects.
+- I enjoy developing innovative solutions for complex problems.
+- I am an experienced and creative programmer who develops web applications in different programming languages.
+- I have worked on various projects related to e-commerce, education and social networks.
+- I love solving complex problems and learning new technologies.
+- My goal is to create quality and useful products for users and customers.
+- I love to run and ride a motorcycle.
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=e154.e154)
+The fastest and most secure way to contact me is [Telegram](https://t.me/praetor1an).
